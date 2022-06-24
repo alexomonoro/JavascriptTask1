@@ -1,4 +1,3 @@
-let Identity ={
-    Name: "Alex", Height:"179cm", Country: "Nigeria"
-}
-console.log(Identity)
+
+
+document.write("Name: Alex Omonoro","   ", "Height: 179cm","   ", "Country: NIgeria");
